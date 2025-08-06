@@ -35,6 +35,11 @@ assets:
   source:
   - name: remastered\obj\AL14_PLAYER.mdlx\-4.dds
 - name: remastered\obj\AL14_PLAYER.mdlx\-5.dds
+  method: copy
+  platform: pc
+  package: kh2_fifth
+  source:
+  - name: remastered\obj\AL14_PLAYER>mdlx\-5.dds
 - name: obj/P_EX100_AL_CARPET.mdlx
   method: copy
   platform: pc
@@ -749,3 +754,4 @@ assets:
   package: kh2_sixth
   source:
   - name: remastered\obj\P_EX100_ULTF.mdlx\-5.dds
+
