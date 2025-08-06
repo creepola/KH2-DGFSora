@@ -7,38 +7,38 @@ assets:
 - name: remastered\obj\AL14_PLAYER.mdlx\-0.dds
   method: copy
   platform: pc
-  package: kh2_sixth
+  package: kh2_fifth
   source:
   - name: remastered\obj\AL14_PLAYER.mdlx\-0.dds
 - name: remastered\obj\AL14_PLAYER.mdlx\-1.dds
   method: copy
   platform: pc
-  package: kh2_sixth
+  package: kh2_fifth
   source:
   - name: remastered\obj\AL14_PLAYER.mdlx\-1.dds
 - name: remastered\obj\AL14_PLAYER.mdlx\-2.dds
   method: copy
   platform: pc
-  package: kh2_sixth
+  package: kh2_fifth
   source:
   - name: remastered\obj\AL14_PLAYER.mdlx\-2.dds
 - name: remastered\obj\AL14_PLAYER.mdlx\-3.dds
   method: copy
   platform: pc
-  package: kh2_sixth
+  package: kh2_fifth
   source:
   - name: remastered\obj\AL14_PLAYER.mdlx\-3.dds
 - name: remastered\obj\AL14_PLAYER.mdlx\-4.dds
   method: copy
   platform: pc
-  package: kh2_sixth
+  package: kh2_fifth
   source:
   - name: remastered\obj\AL14_PLAYER.mdlx\-4.dds
 - name: remastered\obj\AL14_PLAYER.mdlx\-5.dds
 - name: obj/P_EX100_AL_CARPET.mdlx
   method: copy
   platform: pc
-  package: kh2_sixth
+  package: kh2_fifth
   source:
   - name: obj/P_EX100_AL_CARPET.mdlx
 - name: remastered\obj\H_EX500.mdlx\-0.dds
