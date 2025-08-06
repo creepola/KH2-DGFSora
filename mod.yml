@@ -4,6 +4,12 @@ description: This is an automatically generated metadata for this KH2PCPATCH Mod
 game: kh2
 dependencies: 
 assets:
+- name: obj/P_EX100_AL_CARPET.mdlx
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: obj/P_EX100_AL_CARPET.mdlx
 - name: remastered\obj\H_EX500.mdlx\-0.dds
   method: copy
   platform: pc
