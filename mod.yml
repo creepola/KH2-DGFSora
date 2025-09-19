@@ -1,5 +1,5 @@
 title: DGF Sora (KH2PCPATCH)
-originalAuthor: Unknown
+originalAuthor: Creepola
 description: This is an automatically generated metadata for this KH2PCPATCH Modification.
 game: kh2
 dependencies: 
@@ -40,12 +40,54 @@ assets:
   package: kh2_fifth
   source:
   - name: remastered\obj\AL14_PLAYER>mdlx\-5.dds
-- name: obj/P_EX100_AL_CARPET.mdlx
+- name: obj\P_EX100_AL_CARPET.mdlx
   method: copy
   platform: pc
   package: kh2_fifth
   source:
-  - name: obj/P_EX100_AL_CARPET.mdlx
+  - name: obj\P_EX100_AL_CARPET.mdlx
+- name: remastered\obj\H_EX510.mdlx\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  source:
+  - name: remastered\obj\H_EX510.mdlx\-0.dds
+- name: remastered\obj\H_EX510.mdlx\-1.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  source:
+  - name: remastered\obj\H_EX510.mdlx\-1.dds
+- name: remastered\obj\H_EX510.mdlx\-2.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  source:
+  - name: remastered\obj\H_EX510.mdlx\-2.dds
+- name: remastered\obj\P_EX110.mdlx\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  source:
+  - name: remastered\obj\P_EX110.mdlx\-0.dds
+- name: remastered\obj\P_EX110.mdlx\-1.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  source:
+  - name: remastered\obj\P_EX110.mdlx\-1.dds
+- name: remastered\obj\P_EX110.mdlx\-2.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  source:
+  - name: remastered\obj\P_EX110.mdlx\-2.dds
+- name: remastered\obj\P_EX110.mdlx\-3.dds
+  method: copy
+  platform: pc
+  package: kh2_first
+  source:
+  - name: remastered\obj\P_EX110.mdlx\-3.dds
 - name: remastered\obj\H_EX500.mdlx\-0.dds
   method: copy
   platform: pc
@@ -754,4 +796,29 @@ assets:
   package: kh2_sixth
   source:
   - name: remastered\obj\P_EX100_ULTF.mdlx\-5.dds
+- name: remastered\obj\P_EX110_BTLF.mdlx\-0.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX110_BTLF.mdlx\-0.dds
+- name: remastered\obj\P_EX110_BTLF.mdlx\-1.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX110_BTLF.mdlx\-1.dds
+- name: remastered\obj\P_EX110_BTLF.mdlx\-2.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX110_BTLF.mdlx\-2.dds
+- name: remastered\obj\P_EX110_BTLF.mdlx\-3.dds
+  method: copy
+  platform: pc
+  package: kh2_sixth
+  source:
+  - name: remastered\obj\P_EX110_BTLF.mdlx\-3.dds
+
 
