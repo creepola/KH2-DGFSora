@@ -1,6 +1,6 @@
-title: DGF Sora (KH2PCPATCH)
+title: DGF Sora
 originalAuthor: Creepola
-description: This is an automatically generated metadata for this KH2PCPATCH Modification.
+description: dgamefather custom Sora and Roxas model.
 game: kh2
 dependencies: 
 assets:
@@ -684,7 +684,7 @@ assets:
   - name: remastered\obj\P_EX100_NPC.mdlx\-3.dds
 - name: remastered\obj\P_EX100_NPC.mdlx\-4.dds
   method: copy
-  platofrm: pc
+  platform: pc
   package: kh2_sixth
   source:
   - name: remastered\obj\P_EX100_NPC.mdlx\-4.dds
@@ -832,6 +832,7 @@ assets:
   package: kh2_sixth
   source:
   - name: remastered\obj\P_EX110_BTLF.mdlx\-3.dds
+
 
 
 
